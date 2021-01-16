@@ -109,6 +109,7 @@
   "demonhunter.vengeance.suggestions.souls.wasted": "{0}% wasted Soul Fragments.",
   "demonhunter.vengeance.suggestions.spiritBomb.soulsConsumed": "{0}% of casts at 4+ souls.",
   "demonhunter.vengeance.suggestions.voidReaver.uptime": "{0}% Void Reaver uptime",
+  "demonhunter.vengence.suggestions.shearfracture.wastedCasts": "",
   "druid.balance.suggestions.astralPower.overcapped": "{0}% overcapped Astral Power",
   "druid.balance.suggestions.castsCancelled": "{0}% casts cancelled",
   "druid.balance.suggestions.lunarStrike.efficiency": "{0} Unempowered Lunar Strikes per minute",
